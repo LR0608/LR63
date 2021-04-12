@@ -1,0 +1,6 @@
+setwd("D:/work4")
+getwd()
+library(rattle)
+library(RGtk2)
+rattle()
+library(qgisprocess)
